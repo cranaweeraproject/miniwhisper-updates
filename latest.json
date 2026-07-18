@@ -1,0 +1,19 @@
+{
+  "version": "0.1.4",
+  "notes": "Windows test release of the private local-first dictation app.",
+  "pub_date": "2026-07-18T10:02:07.514Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoak05Z3dGNERnKzFqWEF4SDJ6RmhHVkpxQ0ROUEdXdlN5RmFhZ1V2T2krK3BvTmc1b2VUWnVTaHgrZmYrdXJ4YU5Bc3FqNVc5ZzdqUS9PT05MRFh0SHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzY4OTIzCWZpbGU6TWluaVdoaXNwZXJfMC4xLjRfeDY0X2VuLVVTLm1zaQpEejdjcmtnZitGaVdtRTlGR2lIdFNlTXBoNjJ3QllNekRjOXJzZ0MzUE9LK3R3OTByeDFGdlAxM2xkc1VJYlQ3ZHNMNUQ2TWVtKzRKZWdXRDFDMzVCdz09Cg==",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.4_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoak05Z3dGNERnKzFqWEF4SDJ6RmhHVkpxQ0ROUEdXdlN5RmFhZ1V2T2krK3BvTmc1b2VUWnVTaHgrZmYrdXJ4YU5Bc3FqNVc5ZzdqUS9PT05MRFh0SHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzY4OTIzCWZpbGU6TWluaVdoaXNwZXJfMC4xLjRfeDY0X2VuLVVTLm1zaQpEejdjcmtnZitGaVdtRTlGR2lIdFNlTXBoNjJ3QllNekRjOXJzZ0MzUE9LK3R3OTByeDFGdlAxM2xkc1VJYlQ3ZHNMNUQ2TWVtKzRKZWdXRDFDMzVCdz09Cg==",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.4_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakI5N09iVUN5VTJHZUs3RnUxYkRSbFU1TWNacEVhUU12d0dIZXBHQXNrS2hhL0lYREF4eXJ3a0RPUWlPKzNkU3BnVVE5cFpVUW9RaTdaeDlSbkJlZkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzY4OTIzCWZpbGU6TWluaVdoaXNwZXJfMC4xLjRfeDY0LXNldHVwLmV4ZQoyTjJxczV0MkdrUys2dS90eWlXaS9zTU1IYTJ6cXNaaXNUUHVHY2Jva0NSOTJEaE9KMGowcWl6anVESUwxZjJtbnI3eCtzUjh3bFRBT05HVW5kb1FEZz09Cg==",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.4_x64-setup.exe"
+    }
+  }
+}
