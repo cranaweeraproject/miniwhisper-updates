@@ -1,19 +1,19 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "notes": "Windows test release of the private local-first dictation app.",
-  "pub_date": "2026-07-18T12:50:50.678Z",
+  "pub_date": "2026-07-18T13:42:48.370Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakROT3QzWW9pbWFLRVNiYUQ1YUlqVk1VM2dPQ1Q4R3kxZUVRVHZrTXR5UUFVL3RXdTR3cVNUZ1dIR1JOdit2RHFYd0FvRUk3YTZjSDZtbVBpY08yNkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mzc5MDQ2CWZpbGU6TWluaVdoaXNwZXJfMC4xLjVfeDY0X2VuLVVTLm1zaQozN0p0NHdDWUsyZjJ0YXNoYWVyS2REaTNMZC8xb0hXVDhVQlJqNlJnZW9RSkEvanE0akdNRThWckdkRE1XRU8xNDBwMUtReUI3NWxydDhrSExUS0VDUT09Cg==",
-      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoak5XS2J5bjNXVGR1MUppUzczVUVReHZTNUY3ekd5TXNRbUY0cDZYUVVpUFJIODV1YkdMVWY2VGdiZk9WcE5KS0dnMHRoWVllZi83YTEwcmZyVkNLbkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzgyMTY0CWZpbGU6TWluaVdoaXNwZXJfMC4xLjZfeDY0X2VuLVVTLm1zaQpQcVdyOGkrQ1R2b3A0SklKNy9ZNXM5TzFSYy9QQmwwblZhc2JZVUtyb01NNUwwUlRYYThScUR2QkhZdWNYK1NZRVoyQ2xlSDhsdzBhTExOTTlkRnVDQT09Cg==",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.6_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakROT3QzWW9pbWFLRVNiYUQ1YUlqVk1VM2dPQ1Q4R3kxZUVRVHZrTXR5UUFVL3RXdTR3cVNUZ1dIR1JOdit2RHFYd0FvRUk3YTZjSDZtbVBpY08yNkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mzc5MDQ2CWZpbGU6TWluaVdoaXNwZXJfMC4xLjVfeDY0X2VuLVVTLm1zaQozN0p0NHdDWUsyZjJ0YXNoYWVyS2REaTNMZC8xb0hXVDhVQlJqNlJnZW9RSkEvanE0akdNRThWckdkRE1XRU8xNDBwMUtReUI3NWxydDhrSExUS0VDUT09Cg==",
-      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoak5XS2J5bjNXVGR1MUppUzczVUVReHZTNUY3ekd5TXNRbUY0cDZYUVVpUFJIODV1YkdMVWY2VGdiZk9WcE5KS0dnMHRoWVllZi83YTEwcmZyVkNLbkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzgyMTY0CWZpbGU6TWluaVdoaXNwZXJfMC4xLjZfeDY0X2VuLVVTLm1zaQpQcVdyOGkrQ1R2b3A0SklKNy9ZNXM5TzFSYy9QQmwwblZhc2JZVUtyb01NNUwwUlRYYThScUR2QkhZdWNYK1NZRVoyQ2xlSDhsdzBhTExOTTlkRnVDQT09Cg==",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.6_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakFKSUpWd0xGOHo0dmhXcVBqTU1KY1o5Z0dJVWoyQ3JHKytISndrdzdGSGgxTHNzaXpIWU1HV241U1VGMGRKampBNlpGRUtRT2NINkEyWlpnZUtUd0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mzc5MDQ2CWZpbGU6TWluaVdoaXNwZXJfMC4xLjVfeDY0LXNldHVwLmV4ZQppZm40a2lHK212TWViQmpvcjB1RmhVT25UUHhEQ25mWDJyN1N6bE9IalA3QkdMQzVSWTFNVXNid0x2OEMwNnp3WmRvclFHK2JOSzNYMkYyY2t3MzFCQT09Cg==",
-      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakNmeTZEOGxtY3huamVhVUVrL1V0N2dzZStRVDI0R1BFZHl0RVF4aDJEVEhGNzNpQnk2STE5NjRNL2dmOGtJZGEwMFZrZDdTd0ZTWk9LSFZkbXd6RVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzgyMTY0CWZpbGU6TWluaVdoaXNwZXJfMC4xLjZfeDY0LXNldHVwLmV4ZQpEcVV2a3ZpRTZ4N0lFTk5udlRkK3psSkpiOFl0ZUVUUlRQM0tzbkxSYkRwY3JYRjRDK1MrMHlmOGZKYlVzODFTRkpDMEV5VzlXRGtrbkxobENicndEZz09Cg==",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.6_x64-setup.exe"
     }
   }
 }
