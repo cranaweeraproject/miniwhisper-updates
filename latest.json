@@ -1,19 +1,19 @@
 {
-  "version": "0.1.18",
-  "notes": "GPU-accelerated local transcription. Whisper large-v3-turbo runs in-process on Vulkan with the model kept resident, and beam search is restored for better German. Filler-word cleanup is now language-aware. Multi-line text inserts with Shift+Enter.",
-  "pub_date": "2026-09-19T22:52:22.000Z",
+  "version": "0.1.19",
+  "notes": "Windows and macOS release of the private local-first dictation app.",
+  "pub_date": "2026-09-26T17:23:13.698Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakpwTDZRTGQxajVNWVU2bktDQ005RCtmeTRZSDh3K3BpbmVFUGllRUVxRU9QTzNGQkZaMWpOc1MzNXU3TDJhZW11QzJiWVNGYW81aG52bjJoK3JPMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU3ODIzCWZpbGU6TWluaVdoaXNwZXJfMC4xLjE4X3g2NC1zZXR1cC5leGUKd3RGNlFKM0FUcGkrN0tYNSt4RUUxTFdQYWZhYW5jbVl1MjBYOFVCWUo3RFVZZjBaZG5GdDlxRUF3bUsxOFp1RFBwa3FaTU1FM3pmNS9HbmRoZTQ2RGc9PQo=",
-      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.18_x64-setup.exe"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakpwTDZRTGQxajVNWVU2bktDQ005RCtmeTRZSDh3K3BpbmVFUGllRUVxRU9QTzNGQkZaMWpOc1MzNXU3TDJhZW11QzJiWVNGYW81aG52bjJoK3JPMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU3ODIzCWZpbGU6TWluaVdoaXNwZXJfMC4xLjE4X3g2NC1zZXR1cC5leGUKd3RGNlFKM0FUcGkrN0tYNSt4RUUxTFdQYWZhYW5jbVl1MjBYOFVCWUo3RFVZZjBaZG5GdDlxRUF3bUsxOFp1RFBwa3FaTU1FM3pmNS9HbmRoZTQ2RGc9PQo=",
-      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakhzR1ZycSt0ZlUzY2ZDWXF6OVdyRUl4NjIxNFBPS2x4aVlTb3J1WlFIaGRvUnBrSlJtbnpoaXQ5NVQxYjVNelp6QjVNWWZiV1BxajVQdnlIc3VzbmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQzMzg5CWZpbGU6TWluaVdoaXNwZXJfMC4xLjE5X3g2NF9lbi1VUy5tc2kKZ1MvQnJ2amw0Qy83MjArQjNZblpWTG0vVlozSFduWHFKanNsZTIvUm0xTUZ4WTFXaFk3QzBXdlJoV2RDWlVmMktmUlNpSFYxYXpmUGF1M3JDTEo3QWc9PQo=",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.19_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakczWEVJTkRNZlJRTlhnOGs2RVl4ajlZWFptUnJmNkRNSm4rWm05QWJJYkhKcmtVK0ZvcnFUSzFnQjJmb2JXKytYbERJazRjV0k5RXZzUG1BNkMwSVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODU3ODIzCWZpbGU6TWluaVdoaXNwZXJfMC4xLjE4X3g2NF9lbi1VUy5tc2kKbjJLVDY4a3NwTkJtbTN5VG9zYTFzSmZXYXFIbVNROHoxT1c1UTRjU0pwdVBDd2o1TGlubU5kSVdUUkhJNGtlQnRrMldaV05Ob0RERml0ais0NTlsQlE9PQo=",
-      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.18_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoakhzR1ZycSt0ZlUzY2ZDWXF6OVdyRUl4NjIxNFBPS2x4aVlTb3J1WlFIaGRvUnBrSlJtbnpoaXQ5NVQxYjVNelp6QjVNWWZiV1BxajVQdnlIc3VzbmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQzMzg5CWZpbGU6TWluaVdoaXNwZXJfMC4xLjE5X3g2NF9lbi1VUy5tc2kKZ1MvQnJ2amw0Qy83MjArQjNZblpWTG0vVlozSFduWHFKanNsZTIvUm0xTUZ4WTFXaFk3QzBXdlJoV2RDWlVmMktmUlNpSFYxYXpmUGF1M3JDTEo3QWc9PQo=",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.19_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXNlcHFwdWNoak1YUmJjbjhOUkRlVHNyODc0R3UrWEJBWGdqVTZIRXg0MVY2L3BiMEhKc3JXak9tMEQ1ZDdPSGpWdkFOM0doSW1La29ueTRyNHNUZm82S0lrZTFrQ2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQzMzg5CWZpbGU6TWluaVdoaXNwZXJfMC4xLjE5X3g2NC1zZXR1cC5leGUKSlROTGswa0t3QzhLQ0RtSE00aGkvSTB6S2NPaVg0ZW9PblZld3dVNzdFSVg4akpSV3dYN3VMZW9tOVIyeVJwekFlZjVCN0FscEVxa20vT3hyTWhOQmc9PQo=",
+      "url": "https://cranaweeraproject.github.io/miniwhisper-updates/MiniWhisper_0.1.19_x64-setup.exe"
     }
   }
 }
